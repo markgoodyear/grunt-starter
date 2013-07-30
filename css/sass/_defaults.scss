@@ -1,0 +1,63 @@
+//--------------------------------------*\
+//  Defaults
+//--------------------------------------*/
+
+// Use Sass comments for this file to prevent output to top of
+// development compiled .css
+
+
+//--------------------------------------*\
+// Colors
+//--------------------------------------*/
+
+// Brand colours
+$brand-primary:   #111111;
+$brand-secondary: #222222;
+$brand-tertiary:  #333333;
+
+// Grays
+$gray-light:      #eeeeee;
+$gray-med:        #aaaaaa;
+$gray-dark:       #cccccc;
+
+// Black & white
+$black:           #000;
+$white:           #fff;
+
+
+//--------------------------------------*\
+// Base Type
+//--------------------------------------*/
+
+// Define font stacks
+$primary-font:    "Helvetica Neue", Helvetica, Arial, sans-serif;
+$secondary-font:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Base font sizes
+$base-font-size:    16px!default;
+$base-line-height:  24px!default;
+
+// Big sizes
+$giga-size:         96px!default;
+$mega-size:         72px!default;
+$kilo-size:         48px!default;
+
+// Heading sizes
+$h1-size:           36px!default; // .alpha
+$h2-size:           30px!default; // .beta
+$h3-size:           24px!default; // .gamma
+$h4-size:           20px!default; // .delta
+$h5-size:           16px!default; // .epsilon
+$h6-size:           14px!default; // .zeta
+
+// Small sizes
+$milli-size:        12px!default;
+$micro-size:        10px!default;
+
+
+//--------------------------------------*\
+// Project Globals
+//--------------------------------------*/
+
+// Border radius
+$global-radius:     6px;

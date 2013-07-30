@@ -1,0 +1,22 @@
+{
+  "boss": true,
+  "browser": true,
+  "curly": true,
+  "devel": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "onevar": false,
+  "quotmark": true,
+  "sub": true,
+  "undef": true,
+  "globals": {
+      "exports": true,
+      "jQuery": true,
+      "module": true,
+      "document": true
+  }
+}

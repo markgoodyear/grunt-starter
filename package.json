@@ -1,0 +1,27 @@
+{
+  "name": "grunt-project",
+  "title": "A simple Grunt project",
+  "description": "A basic Grunt project to get started.",
+  "version": "0.1.0",
+  "homepage": "http://markgoodyear.com",
+  "author": {
+    "name": "Mark Goodyear",
+    "url": "http://markgoodyear.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-sass": "~0.4.1",
+    "grunt-svgmin": "~0.2.0",
+    "grunt-contrib-imagemin": "~0.1.4",
+    "grunt-svg2png": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
